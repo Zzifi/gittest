@@ -1,0 +1,3 @@
+C:\Users\User\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6948.80\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\gitTest.dir/objects.a
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\gitTest.dir/objects.a @CMakeFiles\gitTest.dir\objects1.rsp
+C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\gitTest.dir/objects.a -Wl,--no-whole-archive  -o gitTest.exe -Wl,--out-implib,libgitTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gitTest.dir\linklibs.rsp
